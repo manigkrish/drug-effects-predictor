@@ -1,5 +1,4 @@
 ## Live application Links
-[![PPT](https://img.shields.io/badge/PPT-FF4B4B?style=for-the-badge&logoColor=white)](https://1drv.ms/p/s!AkRmqW7cd2_Ghad8dhpxBLg8r90W-A?e=vUsUeE)
 
 [![Website](https://img.shields.io/badge/Website-109989?style=for-the-badge&logoColor=white)](https://tfc-civic-tech-hackathon.github.io/Pharmacutiecal)
 ## Problem Statement
