@@ -1,0 +1,29 @@
+/* Signup.css */
+.signup-container {
+    min-height: 100vh;
+    min-width: 70vw;
+  }
+  
+  .signup-card {
+    width: 100%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .signup-form {
+    padding: 20px;
+  }
+  
+  .signup-heading {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .signup-button {
+    width: 100%;
+  }
+  
+  .signup-link {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+  }
